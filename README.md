@@ -14,3 +14,8 @@
 - `dev.txt` — predictions on official dev set (2,093 lines)
 - `test.txt` — predictions on official test set (3,832 lines)
 - `NLPCoursework_FINAL.ipynb` — full training and evaluation notebook
+
+## Note on Model Weights
+The trained model weights (model.safetensors, 476MB) exceed GitHub's file size limit. 
+The model can be reproduced by running the training notebook (NLPCoursework_FINAL.ipynb).
+Model config and tokenizer files are included in the BestModel/ folder.
