@@ -17,5 +17,5 @@
 
 ## Note on Model Weights
 The trained model weights (model.safetensors, 476MB) exceed GitHub's file size limit. 
-The model can be reproduced by running the training notebook (NLPCoursework_FINAL.ipynb).
+The model can be found in Google Drive (https://drive.google.com/file/d/13m1o0K9Y2DyW6JyHiK0GsBzlCglxMjta/view?usp=sharing) or reproduced by running the training notebook (NLPCoursework_FINAL.ipynb).
 Model config and tokenizer files are included in the BestModel/ folder.
